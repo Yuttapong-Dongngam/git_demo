@@ -1,4 +1,4 @@
 *.log
 *.tmp
 bin/
-nore_module/
+nore_modules/
